@@ -1,4 +1,4 @@
-# NTC Git project
+# NTC Git Project
 
 ## amazing big data
 
